@@ -41,7 +41,8 @@ Here are a few highlights from my portfolio:
 - PG Program in Data Science – Great Learning *(In Progress)*  
   Modules completed: Python, Inferential Statistics, Predictive Modeling, Machine Learning  
   Upcoming: Unsupervised Learning, Gen AI, SQL, Tableau
-
+- Basics of Scrum - Great Learning - https://www.mygreatlearning.com/certificate/ODBOWNOM
+- Introduction to DevOps - https://www.mygreatlearning.com/certificate/VXFRMBIA
 ---
 
 ### 🤝 Let’s Connect
