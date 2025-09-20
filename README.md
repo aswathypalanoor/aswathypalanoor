@@ -31,7 +31,7 @@ Currently pursuing a **PG Program in Data Science**, I’m excited about blendin
 
 Here are a few highlights from my portfolio:
 
-- 🔧 [`selenium-hybrid-framework`](https://github.com/yourusername/selenium-hybrid-framework)  
+- 🔧 [`selenium-hybrid-framework`](https://github.com/aswathypalanoor/my_works)  
   A modular, scalable automation framework with dynamic logging and CI/CD integration.
 
 ---
