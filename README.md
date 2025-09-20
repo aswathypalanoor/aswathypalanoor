@@ -33,6 +33,8 @@ Here are a few highlights from my portfolio:
 
 - 🔧 [`selenium-hybrid-framework`](https://github.com/aswathypalanoor/my_works)  
   A modular, scalable automation framework with dynamic logging and CI/CD integration.
+  🔧[`ds_portfolio`](https://github.com/aswathypalanoor/ds_portfolio)
+  My curated portfolio of data science projects
 
 ---
 
